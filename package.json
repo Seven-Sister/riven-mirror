@@ -38,7 +38,7 @@
     "tone": "^14.3.14",
     "universal-localstorage": "^1.0.2",
     "vue": "^2.6.10",
-    "vue-class-component": "^7.1.0",
+    "vue-class-component": "^7.2.3",
     "vue-color": "^2.7.0",
     "vue-i18n": "^8.15.0",
     "vue-property-decorator": "^8.3.0",
