@@ -54,7 +54,7 @@
     "@types/sha.js": "^2.4.0",
     "@vue/cli-plugin-babel": "^4.0.5",
     "@vue/cli-plugin-pwa": "^4.0.5",
-    "@vue/cli-plugin-typescript": "^4.0.5",
+    "@vue/cli-plugin-typescript": "^4.2.3",
     "@vue/cli-service": "^4.0.5",
     "babel-plugin-import": "^1.12.2",
     "electron": "^6.0.0",
