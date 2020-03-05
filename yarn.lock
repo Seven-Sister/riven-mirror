@@ -9373,10 +9373,10 @@ vue-cli-plugin-element@^1.0.1:
   resolved "https://registry.npm.taobao.org/vue-cli-plugin-element/download/vue-cli-plugin-element-1.0.1.tgz#34e58fb65b36cf59afaf14f503288e5e578b1554"
   integrity sha1-NOWPtls2z1mvrxT1AyiOXleLFVQ=
 
-vue-color@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.npm.taobao.org/vue-color/download/vue-color-2.7.0.tgz#31e898370a5786fd6c3007388cb7242db6ba6988"
-  integrity sha1-MeiYNwpXhv1sMAc4jLckLba6aYg=
+vue-color@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/vue-color/-/vue-color-2.7.1.tgz#ca035109ea0010f0d60b889b97d63d37ac712f2d"
+  integrity sha512-u3yl46B2eEej9zfAOIRRSphX1QfeNQzMwO82EIA+aoi0AKX3o1KcfsmMzm4BFkkj2ukCxLVfQ41k7g1gSI7SlA==
   dependencies:
     clamp "^1.0.1"
     lodash.throttle "^4.0.0"
