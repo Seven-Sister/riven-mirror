@@ -39,7 +39,7 @@
     "universal-localstorage": "^1.0.2",
     "vue": "^2.6.10",
     "vue-class-component": "^7.1.0",
-    "vue-color": "^2.7.0",
+    "vue-color": "2.7.0",
     "vue-i18n": "^8.15.0",
     "vue-property-decorator": "^8.3.0",
     "vue-router": "^3.1.3",
