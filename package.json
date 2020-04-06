@@ -19,7 +19,7 @@
     "base64-arraybuffer": "^0.2.0",
     "better-scroll": "^1.15.2",
     "color-thief-browser": "^2.0.2",
-    "copy-text-to-clipboard": "^2.1.1",
+    "copy-text-to-clipboard": "2.1.1",
     "core-js": "^3.3.6",
     "decko": "^1.2.0",
     "dexie": "^2.0.4",
