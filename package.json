@@ -62,7 +62,7 @@
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "protobuf-preloader": "^0.0.2",
-    "ts-node": "^8.4.1",
+    "ts-node": "^8.9.1",
     "typescript": "3.6.4",
     "vue-cli-plugin-electron-builder": "^1.4.1",
     "vue-cli-plugin-element": "^1.0.1",
